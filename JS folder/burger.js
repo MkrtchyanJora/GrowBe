@@ -11,7 +11,7 @@ export function show(){
 }
 
 export function close(){
-    manMenu.style.top = '-100%';
+    manMenu.style.top = '-108%';
 }
 
 

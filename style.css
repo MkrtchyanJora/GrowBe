@@ -999,7 +999,7 @@ html {
   .header_contener .header-nav .openMenu {
     display: block;
     position: absolute;
-    top: 20px;
+    top: 78px;
     right: 20px;
   }
 
@@ -1249,6 +1249,6 @@ html {
 
   .header_contener .header-nav .closeManu {
     position: absolute;
-    right: 47px;
+    right: 27px;
   }
 }
